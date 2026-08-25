@@ -100,3 +100,4 @@ plugin/plugins/
 - [Advanced Topics](./advanced) — Router composition, Adapters, cross-plugin calls, hooks
 - [LLM Tool Calling](./tool-calling) — Register plugin functions for the LLM to invoke during conversations
 - [Best Practices](./best-practices) — Error handling, testing, code organization
+- [Plugin Developer Issues](./plugin-developer-issues) — Host-side limitations plugins cannot work around
